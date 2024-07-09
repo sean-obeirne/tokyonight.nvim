@@ -2001,7 +2001,7 @@ local highlights = {
     underline = true
   },
   VertSplit = {
-    fg = "#ffffff"
+    fg = "#15161e"
   },
   VimwikiHR = {
     bg = "NONE",
